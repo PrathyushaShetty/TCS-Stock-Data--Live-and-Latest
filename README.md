@@ -5,7 +5,7 @@ This project presents a comprehensive data analysis of Tata Consultancy Services
 ## Objective
 To explore TCS stock data and uncover trends, volatility, stock splits, and price behaviors using data visualization and statistical summaries.
 
-## Dataset
+## Dataset : https://drive.google.com/drive/folders/1SmsFxuLH33lvSXzTLjzcIw0YbxIMdEPu
 - `TCS_stock_info.csv`: General stock details
 - `TCS_stock_history.csv`: Historical stock prices
 - `TCS_stock_action.csv`: Actions like dividends, splits, etc.
